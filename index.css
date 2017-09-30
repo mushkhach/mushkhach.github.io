@@ -1,0 +1,23 @@
+
+html { 
+  background: url(https://i0.wp.com/lettermart.org/wp-content/uploads/2016/12/background-images-for-websites-016.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+  
+  font-family: 'Merriweather', sans-serif;
+  padding: 1em;
+}
+
+h1 {
+   text-align: center;
+   color: #adccff;
+   
+}
+form {
+   max-width: 600px;
+   text-align: center;
+   margin: 5px auto; }

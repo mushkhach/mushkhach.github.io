@@ -1,0 +1,120 @@
+
+html { 
+  background: url(http://s1.picswalls.com/wallpapers/2015/11/21/beautiful-motivation-wallpaper_10342177_288.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+  
+  font-family: 'Merriweather', sans-serif;
+  padding: 4em;
+}
+p {
+	font-size: 1.1em;
+	line-height: 1.5em;
+	margin-bottom: 20px;
+	color: #273149;
+}
+#cv {
+	width: 90%;
+	max-width: 800px;
+
+	margin: 30px auto;
+}
+.mainDetails {
+	padding: 25px 35px;
+	border-bottom: 2px solid #cf8a05; }
+#name h1 {
+	font-size: 2.5em;
+	font-weight: 700;
+	font-family: 'Merriweather', sans-serif;
+	margin-bottom: -6px;
+	color: #273149
+}
+#name h2 {
+	font-size: 2em;
+	margin-left: 2px;
+	font-family: 'Merriweather', sans-serif;
+	color: #273149
+}
+#contactDetails {font-size: 1em font-family: 'Merriweather', sans-serif;
+	color: #273149}
+#mainArea {
+	padding: 0 40px;
+}
+
+#headshot img {
+	width: 20%;
+	height: auto;
+	-webkit-border-radius: 100px;
+	border-radius: 20px;
+}
+section {
+	border-top: 1px solid #dedede;
+	padding: 20px 0 0;
+}
+
+section:first-child {
+	border-top: 0;
+}
+
+section:last-child {
+	padding: 20px 0 10px;
+}
+
+.sectionTitle h1 {
+	font-family:font-family: 'Merriweather', sans-serif;
+	color: #273149;
+	font-style: italic;
+	font-size: 1.5em;
+	;
+}
+
+.sectionContent h2 {
+	font-family: font-family: 'Merriweather', sans-serif;
+	color: #273149;
+	font-size: 1.5em;
+	margin-bottom: -2px;
+}
+.sectionContent h3 {
+	font-family: font-family: 'Merriweather', sans-serif;
+	color: #273149;
+	font-size: 1.2em;
+	margin-bottom: -2px;
+}
+
+.subDetails {
+	font-size: 1em;
+	font-style: italic;
+	margin-bottom: 3px;
+}
+
+.Skills {
+	list-style-type: none;
+	-moz-column-count:3;
+	-webkit-column-count:3;
+	column-count:3;
+	margin-bottom: 20px;
+	font-size: 1.1em;
+	color: #444;
+}
+
+.Skills ul li {
+	margin-bottom: 3px;
+}
+.sublines {font-family: 'Merriweather', sans-serif;
+	color: #273149; margin-bottom: 20px;
+	font-size: 1.1em;}
+.sec h1 {
+	font-family:font-family: 'Merriweather', sans-serif;
+	color: #273149;
+	font-style: italic;
+	font-size: 1.5em;
+	;
+}
+.table {font-family: 'Merriweather', sans-serif;
+	color: #273149; margin-bottom: 20px;
+	font-size: 1.1em;}
+.hovhov:hover{color: #ffffff; font-size: 1.5em; margin-bottom: 20px; font-style: bold;}
